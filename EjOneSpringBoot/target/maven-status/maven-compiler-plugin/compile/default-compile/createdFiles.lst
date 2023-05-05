@@ -1,0 +1,6 @@
+Repository\PersonaRepository.class
+com\example\ejonespringboot\EjOneSpringBootApplication.class
+Service\PersonaService.class
+Model\StudentInformation.class
+Controller\PersonaController.class
+Model\Persona.class
